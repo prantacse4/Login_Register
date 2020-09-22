@@ -1,0 +1,58 @@
+.img{
+	background: white;
+}
+.btnt{
+
+}
+.btnt {
+
+    margin-top: 24px;
+
+}
+
+.btn{background: #18572A;
+    height: 37px;
+    width: 92px;
+    border-radius: 6px;
+    padding: 5px;
+color:white;
+font-size: 20px;}
+.btn:hover{background: #024114;}
+table td {
+    padding-bottom: 15px;
+}
+input {
+    width: 320px;
+    height: 39px;
+    padding-left: 8px;
+    border: 1px solid #c0bfbf;
+    border-radius: 3px;
+}
+#sgn:hover{
+	color:red;
+}
+
+#imgs {
+    height: 29px;
+    width: 33px;
+}
+
+.tbl td {
+    padding-left: 18px;
+    padding-bottom: 15px;
+    padding-top: 16px;
+}
+.tbl input {
+    height: 45px;
+    width: 269px;
+    border-radius: 4px;
+}
+input:focus{
+        border-color: dodgerblue;
+    box-shadow: 0 0 8px 0 dodgerblue;
+}
+input:hover{
+    border-color: dodgerblue;
+    box-shadow: 0 0 7px 0 dodgerblue;
+}
+
